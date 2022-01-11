@@ -1,9 +1,11 @@
 ﻿# Information-Retrieval (Inverted Indexing)
 
-Indian Institute of Information Technology, Sri City.
-IR ASSIGNMENT - 01
+## IR ASSIGNMENT - 01
+
 Name : Anirudh Jakhotia
 Roll : S20190010007
+Indian Institute of Information Technology, Sri City.
+
 
 - Steps to execute the file:
 
@@ -25,7 +27,7 @@ Roll : S20190010007
 8. Once the writing of code is done, we execute our program by typing the following command "python Assign012019007.py" in terminal.
 9. We can see an output file in the name: "Assign012019007-output.txt"
 
-Important Details :
+## Important Details :
 
 1. The specific choice of Data Structure used is - Hash Tables, Arrays.
 2. Dictionary Data Structure is used here which has properties of a Hash table that take O(1) i.e., it takes constant time to fetch data.
